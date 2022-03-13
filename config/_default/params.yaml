@@ -10,6 +10,11 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
+# theme = "uchicago"
+# # Enable users to switch between day and night mode?
+# day_night = false
+# font = "ptsans"
+# font_size = ""
 
 # SEO
 
