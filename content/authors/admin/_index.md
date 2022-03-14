@@ -43,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/hu_kaining
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/hu_kaining
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=CRPohjoAAAAJ
@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-I obtained my PhD in Crop Genetics and Breeding from the Huazhong Agricultural University in 2019, under the guidance of Prof. Jinxin Tu. My doctoral dissertation investigated rolling-cycle DNA transposon (Helitron) in Brassicaceae species and the gene evolution of Brassica napus. After joining the Zhang lab, I am interested in the evolution of cassette exons, and nonsense-mediated mRNA decay (NMD) associated with alternative splicing in brain development.
+I obtained my PhD in Crop Genetics and Breeding from the Huazhong Agricultural University in 2019, under the guidance of Prof. Jinxing Tu. My doctoral dissertation investigated rolling-cycle DNA transposon (Helitron) in Brassicaceae species and the gene evolution of Brassica napus. After joining the Zhang lab, I am interested in the evolution of cassette exons, and nonsense-mediated mRNA decay (NMD) associated with alternative splicing in brain development.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
