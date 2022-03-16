@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kaining Hu(胡恺宁)
+title: Kaining Hu
 
 # Is this the primary user of the site?
 superuser: true
@@ -26,13 +26,13 @@ interests:
 education:
   courses:
   - course: PhD in Crop Genetics and Breeding
-    institution: Huazhong Agricultral University
+    institution: Huazhong Agricultural University
     year: 2019
   # - course: MEng in Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   year: 2009
   - course: BSc in Plant Science and Technology
-    institution: Huazhong Agricultral University
+    institution: Huazhong Agricultural University
     year: 2012
 
 # Social/Academic Networking
@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-I obtained my PhD in Crop Genetics and Breeding from the Huazhong Agricultural University in 2019, under the guidance of Prof. Jinxing Tu. My doctoral dissertation investigated rolling-cycle DNA transposon (Helitron) in Brassicaceae species and the gene evolution of Brassica napus. After joining the Zhang lab, I am interested in the evolution of cassette exons, and nonsense-mediated mRNA decay (NMD) associated with alternative splicing in brain development.
+I'm Kaining Hu (胡恺宁). I obtained my PhD in Crop Genetics and Breeding from the Huazhong Agricultural University in 2019, under the guidance of Prof. Jinxing Tu. My doctoral dissertation investigated rolling-cycle DNA transposon (Helitron) in Brassicaceae species and the gene evolution of Brassica napus. After joining the Zhang lab, I am interested in the evolution of cassette exons, and nonsense-mediated mRNA decay (NMD) associated with alternative splicing in brain development.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
