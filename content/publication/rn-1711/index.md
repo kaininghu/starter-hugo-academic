@@ -9,7 +9,7 @@ authors:
 - Shuangping Heng
 - Fengyi Chen
 - Chao Wei
-- Kaining Hu
+- admin
 - Zonghui Yang
 - Jing Wen
 - Bin Yi

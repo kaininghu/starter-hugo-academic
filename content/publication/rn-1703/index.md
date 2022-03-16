@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Liping Xu
-- Kaining Hu
+- admin
 - Zhenqian Zhang
 - Chunyun Guan
 - Song Chen

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Zengxiang Wu
-- Kaining Hu
+- admin
 - Mengjiao Yan
 - Liping Song
 - Jing Wen

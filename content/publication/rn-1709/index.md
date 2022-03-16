@@ -10,7 +10,7 @@ authors:
 - Viktoria Zeisler
 - Lukas Schreiber
 - Jie Gao
-- Kaining Hu
+- admin
 - Jing Wen
 - Bin Yi
 - Jinxiong Shen

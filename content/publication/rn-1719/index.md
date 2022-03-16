@@ -9,7 +9,7 @@ authors:
 - Kai Xu
 - Yujin Wu
 - Jurong Song
-- Kaining Hu
+- admin
 - Zengxiang Wu
 - Jing Wen
 - Bin Yi

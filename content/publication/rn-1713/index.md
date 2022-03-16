@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Meiyan Hong
-- Kaining Hu
+- admin
 - Tiantian Tian
 - Xia Li
 - Li Chen

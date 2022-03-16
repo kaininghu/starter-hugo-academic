@@ -9,7 +9,7 @@ authors:
 - Chengming Sun
 - Benqi Wang
 - Lei Yan
-- Kaining Hu
+- admin
 - Sheng Liu
 - Yongming Zhou
 - Chunyun Guan

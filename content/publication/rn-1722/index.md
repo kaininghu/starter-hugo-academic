@@ -9,7 +9,7 @@ authors:
 - Nesma Shalby
 - Ibrahim AA Mohamed
 - Jie Xiong
-- Kaining Hu
+- admin
 - Yebitao Yang
 - Elsayed Nishawy
 - Bin Yi

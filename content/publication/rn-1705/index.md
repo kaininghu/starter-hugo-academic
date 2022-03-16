@@ -9,7 +9,7 @@ authors:
 - Xinwang Zhao
 - Bao Li
 - Ka Zhang
-- Kaining Hu
+- admin
 - Bin Yi
 - Jing Wen
 - Chaozhi Ma

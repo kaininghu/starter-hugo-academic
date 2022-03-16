@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Xiaobin Zhao
-- Kaining Hu
+- admin
 - Mengjiao Yan
 - Bin Yi
 - Jing Wen

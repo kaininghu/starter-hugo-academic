@@ -9,7 +9,7 @@ authors:
 - Haiyan Zhang
 - Xiaoting Li
 - Yebitao Yang
-- Kaining Hu
+- admin
 - Xianming Zhou
 - Jing Wen
 - Bin Yi

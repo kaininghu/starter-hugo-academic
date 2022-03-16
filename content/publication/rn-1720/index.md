@@ -11,7 +11,7 @@ authors:
 - Yanke Cui
 - Chenjian Zhuo
 - Yuanguo Gu
-- Kaining Hu
+- admin
 - Jing Wen
 - Bin Yi
 - Jinxiong Shen

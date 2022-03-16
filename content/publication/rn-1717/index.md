@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Hongchen Lu
 - Ping Xu
-- Kaining Hu
+- admin
 - Qing Xiao
 - Jing Wen
 - Bin Yi

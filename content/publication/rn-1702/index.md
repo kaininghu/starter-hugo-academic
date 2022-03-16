@@ -10,7 +10,7 @@ authors:
 - Xuekun Zhang
 - Ka Zhang
 - Hong An
-- Kaining Hu
+- admin
 - Jing Wen
 - Jinxiong Shen
 - Chaozhi Ma

@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Ping Xu
 - Shiqin Cao
-- Kaining Hu
+- admin
 - Xiaohua Wang
 - Wei Huang
 - Gang Wang

@@ -9,7 +9,7 @@ authors:
 - Shengqian Xia
 - Zhixin Wang
 - Haiyan Zhang
-- Kaining Hu
+- admin
 - Zhiqiang Zhang
 - Maomao Qin
 - Xiaoling Dun

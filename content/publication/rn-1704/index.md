@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Chunfang Du
-- Kaining Hu
+- admin
 - Shuanshi Xian
 - Chunqing Liu
 - Jianchun Fan

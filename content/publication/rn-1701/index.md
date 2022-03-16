@@ -9,7 +9,7 @@ authors:
 - Xiang Luo
 - Chaozhi Ma
 - Yao Yue
-- Kaining Hu
+- admin
 - Yaya Li
 - Zhiqiang Duan
 - Ming Wu

@@ -9,7 +9,7 @@ authors:
 - Yu Fan
 - Jie Xiong
 - Xiang Guo
-- Kaining Hu
+- admin
 - Zhixin Wang
 - Jie Gao
 - Jing Wen

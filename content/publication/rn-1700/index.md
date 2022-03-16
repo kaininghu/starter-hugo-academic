@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Xiaoling Dun
 - Wenhao Shen
-- Kaining Hu
+- admin
 - Zhengfu Zhou
 - Shengqian Xia
 - Jing Wen

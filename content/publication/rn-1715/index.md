@@ -6,7 +6,7 @@ title: Helitron distribution in Brassicaceae and whole genome Helitron density a
 subtitle: ''
 summary: ''
 authors:
-- Kaining Hu
+- admin
 - Kai Xu
 - Jing Wen
 - Bin Yi
